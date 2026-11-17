@@ -1,4 +1,0 @@
-ALTER TABLE Student1
-MODIFY Age SMALLINT;
-
-desc Student1;
