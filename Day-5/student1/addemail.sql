@@ -1,0 +1,3 @@
+ALTER TABLE Student1
+ADD Email VARCHAR(100);
+DESC Student1;
